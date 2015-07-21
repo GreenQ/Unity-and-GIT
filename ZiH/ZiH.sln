@@ -1,7 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2008
 
-Project("{FA9948B5-228A-54F7-285D-56D01019ECE9}") = "Zombie flappy jetpack", "Assembly-CSharp-vs.csproj", "{09AD0B6E-F120-141F-C2B2-F33A09E0598A}"
+Project("{19B4DE73-47F2-5A9D-30C6-6731FD9B5545}") = "ZiH", "Assembly-CSharp.csproj", "{D14799C9-809C-297F-F3A8-33B10E537A97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,15 +9,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{09AD0B6E-F120-141F-C2B2-F33A09E0598A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{09AD0B6E-F120-141F-C2B2-F33A09E0598A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{09AD0B6E-F120-141F-C2B2-F33A09E0598A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{09AD0B6E-F120-141F-C2B2-F33A09E0598A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D14799C9-809C-297F-F3A8-33B10E537A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D14799C9-809C-297F-F3A8-33B10E537A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D14799C9-809C-297F-F3A8-33B10E537A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D14799C9-809C-297F-F3A8-33B10E537A97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-													GlobalSection(MonoDevelopProperties) = preSolution
+				GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1

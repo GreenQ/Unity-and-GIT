@@ -5,7 +5,7 @@
 	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
 	<ProductVersion>10.0.20506</ProductVersion>
 	<SchemaVersion>2.0</SchemaVersion>
-	<ProjectGuid>{09AD0B6E-F120-141F-C2B2-F33A09E0598A}</ProjectGuid>
+	<ProjectGuid>{D14799C9-809C-297F-F3A8-33B10E537A97}</ProjectGuid>
 	<OutputType>Library</OutputType>
 	<AppDesignerFolder>Properties</AppDesignerFolder>
 	<RootNamespace></RootNamespace>
@@ -47,11 +47,8 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\CameraFollow.cs" />
-     <Compile Include="Assets\Scripts\GeneratorScript.cs" />
-     <Compile Include="Assets\Scripts\LaserScript.cs" />
-     <Compile Include="Assets\Scripts\MouseController.cs" />
-     <Compile Include="Assets\Scripts\ParallaxScroll.cs" />
-     <Compile Include="Assets\Scripts\ParticleSortingLayerFix.cs" />
+     <Compile Include="Assets\Scripts\LevelGenerator.cs" />
+     <Compile Include="Assets\Scripts\PlayerController.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
